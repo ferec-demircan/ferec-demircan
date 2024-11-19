@@ -22,3 +22,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ferecdemircan&" alt="ferecdemircan" /></p>
 
+
+
+![snake gif](https://github.com/ferec-demircan/ferec-demircan/blob/output/github-contribution-grid-snake.gif)
